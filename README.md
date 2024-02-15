@@ -14,7 +14,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
     The screenshots of my code has been added to the image folder
 
   - [Links](#links)
-    SOLUTION URL :
+    SOLUTION URL :  https://iamloba.github.io/recipe-page/
 
 - [My process](#my-process)
   i started with building my html using the letters, words and sentences that they already provided, then i went ahead and started styling one after the other. started with declaring global styles.
